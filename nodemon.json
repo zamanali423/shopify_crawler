@@ -1,0 +1,4 @@
+{
+  "watch": ["shopifyCrawler.js", "shopifycrawlerwithcheerio.js"],
+  "ignore": ["product-response.json"]
+}
